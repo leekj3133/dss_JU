@@ -41,10 +41,6 @@
 <br/>
 
 ## 2. PROCESS
-
-<br/>
-
-<img width="157" alt="스크린샷 2021-06-07 오전 12 37 16" src="https://user-images.githubusercontent.com/75352728/120930518-8477e000-c728-11eb-840a-ce6b4eda0b36.png">
  
 <br/>
 
